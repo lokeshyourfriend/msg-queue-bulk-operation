@@ -1,0 +1,1 @@
+# msg-queue-bulk-operation
